@@ -16,7 +16,7 @@ http.createServer(function(req, res){
 	    //os oper
 ServerUpTime = new Date(os.uptime() * 1000).toISOString().substr(11, 8)
 totalMem = os.totalmem()/1048576;
-freeMem = os.totalmem()/1048576;
+freeMem = os.freemem()/1048576;
 cpus = os.cpus().length+1;
 
 	    
