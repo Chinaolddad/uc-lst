@@ -2,7 +2,7 @@
 <body>
 <p>
 
-I add the common file types as the target for system folders. like .tmp .log .obj.etc <br/>
+I add the common file types as the target for system folders. like .tmp .log .obj.etc 
   
 Also add the common file types as the target for daily use folders. like .txt.jpg.png.etc <br/>
   
