@@ -11,5 +11,8 @@ The file size are def as the byte plz conversion before use.
 Which can easly change the target by edit the script. 
 
 What more is I set filter of file size.  
+  
+![image](https://user-images.githubusercontent.com/55423948/154861749-2db41ed3-1e81-42ff-bfc8-c9e62aa7156e.png)
+
 </p>
 </body>
