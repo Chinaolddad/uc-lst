@@ -20,7 +20,7 @@ git clone https://github.com/chriskiehl/Gooey.git
 <table>
   <tr>
     <td>Widgets Name</td>
-    <td>Widgets Type/td>
+    <td>Widgets Type</td>
   </tr>
   <tr>
     <td>FileChooser</td>
