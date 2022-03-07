@@ -1,18 +1,19 @@
-##Lab7
+<html>
+<Body>
+<h1>##Lab7</h1>
 ##Here we do take the Goory a python plugin as the project example.
 ##Goory is a super intreseting Python GUI application development framework, which could avoid the Terminal application operating and to became a GUI interface.
 
 ##At the beginning I used the Python 3 as the enviroment, please check before use.
+<hr/>
 
 ##Download and install
 ##For install we could pip or git clone, please make sure install and finish config of pip and git before using. 
 
-
-
-
 pip install Gooey
 #or 
 git clone https://github.com/chriskiehl/Gooey.git
+<hr/>
 
 
 ##Widgets(Not all)
@@ -107,3 +108,5 @@ tabbed_groups=True
 
 ## work site 
 https://github.com/chriskiehl/GooeyExamples
+</Body>
+</html>
