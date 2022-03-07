@@ -24,43 +24,43 @@ git clone https://github.com/chriskiehl/Gooey.git
   </tr>
   <tr>
     <td>FileChooser</td>
-    <td>Cell 5</td>
+    <td>File selector</td>
   </tr>
 <tr>
     <td>MultiFileChooser</td>
-    <td>Cell 5</td>
+    <td>File multiselector</td>
   </tr>
 <tr>
     <td>DirChooser</td>
-    <td>Cell 5</td>
+    <td>Directory selector</td>
   </tr>
 <tr>
     <td>MultiDirChooser</td>
-    <td>Cell 5</td>
+    <td>Directory multielector</td>
   </tr>
 <tr>
     <td>FileSaver</td>
-    <td>Cell 5</td>
+    <td>File saving</td>
   </tr>
 <tr>
     <td>DateChooser</td>
-    <td>Cell 5</td>
+    <td>Date select</td>
   </tr>
 <tr>
     <td>TextField</td>
-    <td>Cell 5</td>
+    <td>Text Entry Box</td>
   </tr>
 <tr>
     <td>Dropdown</td>
-    <td>Cell 5</td>
+    <td>dropdown list</td>
   </tr>
 <tr>
     <td>Counter</td>
-    <td>Cell 5</td>
+    <td>Number Counter</td>
   </tr>
 <tr>
     <td>CheckBox</td>
-    <td>Cell 5</td>
+    <td>Check Box</td>
   </tr>
 </table>
 
