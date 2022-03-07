@@ -1,9 +1,10 @@
 <html>
 <Body>
 <h1>##Lab7</h1>
-##Here we do take the Goory a python plugin as the project example.
-##Goory is a super intreseting Python GUI application development framework, which could avoid the Terminal application operating and to became a GUI interface.
-
+<h2>
+Here we do take the Goory a python plugin as the project example.
+Goory is a super intreseting Python GUI application development framework, which could avoid the Terminal application operating and to became a GUI interface.
+</h2>
 ##At the beginning I used the Python 3 as the enviroment, please check before use.
 <hr/>
 
@@ -11,7 +12,9 @@
 ##For install we could pip or git clone, please make sure install and finish config of pip and git before using. 
 
 pip install Gooey
+<br/>
 #or 
+<br/>
 git clone https://github.com/chriskiehl/Gooey.git
 <hr/>
 
@@ -66,14 +69,15 @@ git clone https://github.com/chriskiehl/Gooey.git
 </table>
 
 ##Example Beginnging.
+<br/>
 ##Let's start with a simple CLI application based on the Argparse library:  
-from argparse import ArgumentParser
 
-def main():
-    parser = ArgumentParser(description="My Cool GUI Program!")
-    parser.add_argument('Filename')
-    parser.add_argument('Date')
-    parser.parse_args()
+from argparse import ArgumentParser
+def main():<br/>
+    parser = ArgumentParser(description="My Cool GUI Program!")<br/>
+    parser.add_argument('Filename')<br/>
+    parser.add_argument('Date')<br/>
+    parser.parse_args()<br/>
 
 if __name__ == '__main__':
     main()
@@ -84,27 +88,28 @@ if __name__ == '__main__':
 
 from gooey import Gooey, GooeyParser
 
-@Gooey
-def main():##(Global configuration)
-    parser = GooeyParser(description="My Cool GUI Program!")
-    parser.add_argument('Filename')
-    parser.add_argument('Date')
-    parser.parse_args()
+@Gooey<br/>
+def main():##(Global configuration)<br/>
+    parser = GooeyParser(description="My Cool GUI Program!")<br/>
+    parser.add_argument('Filename')<br/>
+    parser.add_argument('Date')<br/>
+    parser.parse_args()<br/>
 
 if   __name__ == '__main__':
     main()
 
-##This could gives us a simple GUI dialog, and basically didn't take much coding.
+##This could gives us a simple GUI dialog, and basically didn't take much coding.<br/>
 ##IF we add the new lines in it we will get a Dedicated control of Date, Like a Selection sub window.
 
-parser.add_argument('Filename', widget="FileChooser")
+parser.add_argument('Filename', widget="FileChooser")<br/>
 parser.add_argument('Date', widget="DateChooser")
 
 ##Also it is easy to custom your GUI Layout by using code.
-show_sidebar=True
-show_sidebar=False
-navigation='TABBED'
-tabbed_groups=True
+<br/>
+show_sidebar=True<br/>
+show_sidebar=False<br/>
+navigation='TABBED'<br/>
+tabbed_groups=True<br/>
 
 ## work site 
 https://github.com/chriskiehl/GooeyExamples
