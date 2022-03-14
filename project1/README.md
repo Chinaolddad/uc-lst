@@ -16,6 +16,10 @@ What more is I set filter of file size.
   
 For operating, you just need input the folder path. 
 
+<hr / >
+<h3>
+For project 2 I add the another filter which could set the time. This allows us to delete files from a fixed number of days ago, even if the file size does not match the value previously set, to clear long-term redundant files
+</h3>
 </p>
 </body>
 
