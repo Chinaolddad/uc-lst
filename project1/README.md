@@ -20,6 +20,12 @@ For operating, you just need input the folder path.
 <h3>
 For project 2 I add the another filter which could set the time. This allows us to delete files from a fixed number of days ago, even if the file size does not match the value previously set, to clear long-term redundant files
 </h3>
+
+  <h1>project3 the cleaning 3.0 </h1>
+  <p2>
+    This time I did add the operation interface for my clean app. For using import project3-1&2 and run project 1 that you will see the interface. I did not packaging this app so this is not exe file.
+  </p2>
+
 </p>
 </body>
 
