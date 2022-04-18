@@ -1,4 +1,4 @@
 # README
 
-##Should be smaller
-##Smaller again
+##Should be smiler
+##Smier again
