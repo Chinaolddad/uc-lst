@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter.ttk import *
 from tkinter import filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
-from code.func_clean import garbagefile_clean_mode1, garbagefile_clean_mode2
+from func_clean import garbagefile_clean_mode1, garbagefile_clean_mode2
 from ctypes import windll
 windll.shcore.SetProcessDpiAwareness(1)  # solve the problem of blur effect in windows
 
